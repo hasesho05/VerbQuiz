@@ -1,0 +1,89 @@
+.joinScreen {
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  text-align: center;
+  padding: 20px;
+
+  .description {
+    color: darkgrey;
+    font-size: 8px;
+  }
+
+  .timer {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+  }
+  @media (max-width: 614px) {
+    .timer {
+      width: 60%;
+      margin-top: 30px;
+    }
+  }
+
+  .loginedbutton {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 60%;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+
+    button {
+      font-size: clamp(0.7rem, 1.1vw, 0.9rem);
+      font-weight: bold;
+      padding: 20px;
+      border-radius: 5px;
+      color: white;
+      &:hover {
+        background-color: #3a3a3c;
+      }
+    }
+  }
+
+  @media (max-width: 614px) {
+    .loginedbutton {
+      margin-bottom: 50px;
+      margin-top: 150px;
+    }
+  }
+
+  .loginbutton {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+
+    button {
+      font-size: clamp(0.5rem, 1.1vw, 0.8rem);
+      margin-bottom: 10px;
+      width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .quizstart {
+      margin-top: 20px;
+    }
+
+    p {
+      color: white;
+      font-size: 10px;
+    }
+
+    button {
+      font-weight: bold;
+      padding: 15px;
+      border-radius: 5px;
+      color: white;
+      border-color: white;
+      &:hover {
+        background-color: #3a3a3c;
+      }
+    }
+  }
+}

@@ -1,0 +1,1426 @@
+[
+{"title":"stack",
+  "options":["積み重ねる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"qualify",
+  "options":["資格を与える",""],
+  "correctOptionIndex":"1"
+},
+{"title":"regulation",
+  "options":["規則",""],
+  "correctOptionIndex":"1"
+},
+{"title":"summary",
+  "options":["要約",""],
+  "correctOptionIndex":"1"
+},
+{"title":"compact",
+  "options":["小型の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"constant",
+  "options":["絶え間なく続く",""],
+  "correctOptionIndex":"1"
+},
+{"title":"gather",
+  "options":["集める",""],
+  "correctOptionIndex":"1"
+},
+{"title":"shortly",
+  "options":["まもなく",""],
+  "correctOptionIndex":"1"
+},
+{"title":"incorporate",
+  "options":["組み入れる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"projector",
+  "options":["プロジェクター",""],
+  "correctOptionIndex":"1"
+},
+{"title":"panel",
+  "options":["パネル",""],
+  "correctOptionIndex":"1"
+},
+{"title":"layout",
+  "options":["レイアウト",""],
+  "correctOptionIndex":"1"
+},
+{"title":"fare",
+  "options":["運賃",""],
+  "correctOptionIndex":"1"
+},
+{"title":"determine",
+  "options":["明らかにする",""],
+  "correctOptionIndex":"1"
+},
+{"title":"accomplishment",
+  "options":["達成",""],
+  "correctOptionIndex":"1"
+},
+{"title":"simple",
+  "options":["単純な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"aware",
+  "options":["気づいている",""],
+  "correctOptionIndex":"1"
+},
+{"title":"tenant",
+  "options":["テナント",""],
+  "correctOptionIndex":"1"
+},
+{"title":"pleasure",
+  "options":["喜び",""],
+  "correctOptionIndex":"1"
+},
+{"title":"demand",
+  "options":["要求／要求する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"blueprint",
+  "options":["青写真",""],
+  "correctOptionIndex":"1"
+},
+{"title":"advantage",
+  "options":["有利な点",""],
+  "correctOptionIndex":"1"
+},
+{"title":"dental",
+  "options":["歯の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"metro",
+  "options":["地下鉄",""],
+  "correctOptionIndex":"1"
+},
+{"title":"overhead",
+  "options":["頭上の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"waterproof",
+  "options":["防水性の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"language",
+  "options":["言語",""],
+  "correctOptionIndex":"1"
+},
+{"title":"perfect",
+  "options":["完璧な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"above",
+  "options":["…の上方に",""],
+  "correctOptionIndex":"1"
+},
+{"title":"luck",
+  "options":["幸運",""],
+  "correctOptionIndex":"1"
+},
+{"title":"exactly",
+  "options":["正確に／そのとおり",""],
+  "correctOptionIndex":"1"
+},
+{"title":"influence",
+  "options":["影響を及ぼす",""],
+  "correctOptionIndex":"1"
+},
+{"title":"urgent",
+  "options":["緊急の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"valuable",
+  "options":["価値の高い",""],
+  "correctOptionIndex":"1"
+},
+{"title":"assess",
+  "options":["評価する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"cashier",
+  "options":["レジ係",""],
+  "correctOptionIndex":"1"
+},
+{"title":"dedicate",
+  "options":["専念する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"earn",
+  "options":["稼ぐ",""],
+  "correctOptionIndex":"1"
+},
+{"title":"fromscratch",
+  "options":["ゼロから",""],
+  "correctOptionIndex":"1"
+},
+{"title":"acoupleof",
+  "options":["2つの",""],
+  "correctOptionIndex":"1"
+},
+{"title":"social",
+  "options":["社会の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"connect",
+  "options":["接続する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"plentyof",
+  "options":["たくさん",""],
+  "correctOptionIndex":"1"
+},
+{"title":"overnight",
+  "options":["一晩中",""],
+  "correctOptionIndex":"1"
+},
+{"title":"clearance",
+  "options":["整理",""],
+  "correctOptionIndex":"1"
+},
+{"title":"onto",
+  "options":["…の上へ",""],
+  "correctOptionIndex":"1"
+},
+{"title":"sponsorship",
+  "options":["資金援助",""],
+  "correctOptionIndex":"1"
+},
+{"title":"flexible",
+  "options":["柔軟な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"automatically",
+  "options":["自動的に",""],
+  "correctOptionIndex":"1"
+},
+{"title":"alone",
+  "options":["ただ1人で",""],
+  "correctOptionIndex":"1"
+},
+{"title":"nutrition",
+  "options":["栄養",""],
+  "correctOptionIndex":"1"
+},
+{"title":"familiar",
+  "options":["よく知られた",""],
+  "correctOptionIndex":"1"
+},
+{"title":"patron",
+  "options":["顧客",""],
+  "correctOptionIndex":"1"
+},
+{"title":"entry",
+  "options":["加入",""],
+  "correctOptionIndex":"1"
+},
+{"title":"broad",
+  "options":["広範囲の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"steady",
+  "options":["着実な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"transaction",
+  "options":["取引",""],
+  "correctOptionIndex":"1"
+},
+{"title":"delicious",
+  "options":["とてもおいしい",""],
+  "correctOptionIndex":"1"
+},
+{"title":"checkout",
+  "options":["チェックアウト／レジ",""],
+  "correctOptionIndex":"1"
+},
+{"title":"wheelbarrow",
+  "options":["手押し車",""],
+  "correctOptionIndex":"1"
+},
+{"title":"explore",
+  "options":["探索する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"promise",
+  "options":["約束する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"anticipate",
+  "options":["…を予期する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"cafeteria",
+  "options":["食堂",""],
+  "correctOptionIndex":"1"
+},
+{"title":"society",
+  "options":["社会",""],
+  "correctOptionIndex":"1"
+},
+{"title":"anniversary",
+  "options":["記念日",""],
+  "correctOptionIndex":"1"
+},
+{"title":"evaluation",
+  "options":["評価",""],
+  "correctOptionIndex":"1"
+},
+{"title":"handout",
+  "options":["配布資料",""],
+  "correctOptionIndex":"1"
+},
+{"title":"direct",
+  "options":["向ける／直接の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"appropriate",
+  "options":["適切な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"common",
+  "options":["ありふれた",""],
+  "correctOptionIndex":"1"
+},
+{"title":"general",
+  "options":["だいたいの",""],
+  "correctOptionIndex":"1"
+},
+{"title":"whole",
+  "options":["全体の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"proud",
+  "options":["多大な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"compare",
+  "options":["比較する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"numerous",
+  "options":["多数の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"networking",
+  "options":["ネットワークづくり",""],
+  "correctOptionIndex":"1"
+},
+{"title":"acquire",
+  "options":["獲得する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"establish",
+  "options":["設立する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"overseas",
+  "options":["海外の／海外へ",""],
+  "correctOptionIndex":"1"
+},
+{"title":"discover",
+  "options":["発見する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"envelope",
+  "options":["封筒",""],
+  "correctOptionIndex":"1"
+},
+{"title":"newly",
+  "options":["新たに",""],
+  "correctOptionIndex":"1"
+},
+{"title":"expose",
+  "options":["さらす",""],
+  "correctOptionIndex":"1"
+},
+{"title":"means",
+  "options":["手段",""],
+  "correctOptionIndex":"1"
+},
+{"title":"quarter",
+  "options":["四半期",""],
+  "correctOptionIndex":"1"
+},
+{"title":"internship",
+  "options":["インターンシップ",""],
+  "correctOptionIndex":"1"
+},
+{"title":"walkway",
+  "options":["歩道",""],
+  "correctOptionIndex":"1"
+},
+{"title":"medication",
+  "options":["薬剤",""],
+  "correctOptionIndex":"1"
+},
+{"title":"format",
+  "options":["フォーマット／構成",""],
+  "correctOptionIndex":"1"
+},
+{"title":"conservation",
+  "options":["保護",""],
+  "correctOptionIndex":"1"
+},
+{"title":"below",
+  "options":["…より下に",""],
+  "correctOptionIndex":"1"
+},
+{"title":"profit",
+  "options":["利益",""],
+  "correctOptionIndex":"1"
+},
+{"title":"volume",
+  "options":["容量",""],
+  "correctOptionIndex":"1"
+},
+{"title":"restore",
+  "options":["修復する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"satisfy",
+  "options":["満足させる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"knowledge",
+  "options":["知識",""],
+  "correctOptionIndex":"1"
+},
+{"title":"compliment",
+  "options":["ほめ言葉",""],
+  "correctOptionIndex":"1"
+},
+{"title":"oversee",
+  "options":["監督する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"meanwhile",
+  "options":["同時に／一方では",""],
+  "correctOptionIndex":"1"
+},
+{"title":"majority",
+  "options":["大多数",""],
+  "correctOptionIndex":"1"
+},
+{"title":"postal",
+  "options":["郵便の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"voice",
+  "options":["意見",""],
+  "correctOptionIndex":"1"
+},
+{"title":"foreign",
+  "options":["外国の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"fieldwork",
+  "options":["現地調査",""],
+  "correctOptionIndex":"1"
+},
+{"title":"checklist",
+  "options":["一覧表",""],
+  "correctOptionIndex":"1"
+},
+{"title":"keynote",
+  "options":["基調講演",""],
+  "correctOptionIndex":"1"
+},
+{"title":"minimum",
+  "options":["最小限／最小の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"expertise",
+  "options":["専門知識",""],
+  "correctOptionIndex":"1"
+},
+{"title":"flaw",
+  "options":["傷／欠陥",""],
+  "correctOptionIndex":"1"
+},
+{"title":"token",
+  "options":["しるし",""],
+  "correctOptionIndex":"1"
+},
+{"title":"outcome",
+  "options":["結果",""],
+  "correctOptionIndex":"1"
+},
+{"title":"enterprise",
+  "options":["企業",""],
+  "correctOptionIndex":"1"
+},
+{"title":"prevent",
+  "options":["妨げる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"scholarship",
+  "options":["奨学金",""],
+  "correctOptionIndex":"1"
+},
+{"title":"import",
+  "options":["輸入する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"amazing",
+  "options":["すばらしい",""],
+  "correctOptionIndex":"1"
+},
+{"title":"fortunate",
+  "options":["運の良い",""],
+  "correctOptionIndex":"1"
+},
+{"title":"illustrate",
+  "options":["説明する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"urgency",
+  "options":["緊急",""],
+  "correctOptionIndex":"1"
+},
+{"title":"hesitate",
+  "options":["ためらう",""],
+  "correctOptionIndex":"1"
+},
+{"title":"represent",
+  "options":["代表する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"surpass",
+  "options":["優る",""],
+  "correctOptionIndex":"1"
+},
+{"title":"destination",
+  "options":["目的地",""],
+  "correctOptionIndex":"1"
+},
+{"title":"behavior",
+  "options":["態度",""],
+  "correctOptionIndex":"1"
+},
+{"title":"proficiency",
+  "options":["熟練度",""],
+  "correctOptionIndex":"1"
+},
+{"title":"function",
+  "options":["機能",""],
+  "correctOptionIndex":"1"
+},
+{"title":"recreation",
+  "options":["気晴らし",""],
+  "correctOptionIndex":"1"
+},
+{"title":"recall",
+  "options":["回収する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"beforehand",
+  "options":["あらかじめ",""],
+  "correctOptionIndex":"1"
+},
+{"title":"downstairs",
+  "options":["階下へ",""],
+  "correctOptionIndex":"1"
+},
+{"title":"sustain",
+  "options":["維持する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"translate",
+  "options":["翻訳する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"transcript",
+  "options":["成績証明書",""],
+  "correctOptionIndex":"1"
+},
+{"title":"confident",
+  "options":["確信している",""],
+  "correctOptionIndex":"1"
+},
+{"title":"overcome",
+  "options":["克服する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"anymore",
+  "options":["もはや",""],
+  "correctOptionIndex":"1"
+},
+{"title":"utility",
+  "options":["公共設備／実用性",""],
+  "correctOptionIndex":"1"
+},
+{"title":"allocate",
+  "options":["割り当てる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"whereas",
+  "options":["…だが一方",""],
+  "correctOptionIndex":"1"
+},
+{"title":"accustom",
+  "options":["慣れさせる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"forecast",
+  "options":["予報",""],
+  "correctOptionIndex":"1"
+},
+{"title":"resign",
+  "options":["辞職する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"reasonable",
+  "options":["(価格が)手頃な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"incline",
+  "options":["…に気が向く",""],
+  "correctOptionIndex":"1"
+},
+{"title":"spokesperson",
+  "options":["代弁者",""],
+  "correctOptionIndex":"1"
+},
+{"title":"utensil",
+  "options":["台所用具",""],
+  "correctOptionIndex":"1"
+},
+{"title":"accurate",
+  "options":["正確な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"bid",
+  "options":["入札／値をつける",""],
+  "correctOptionIndex":"1"
+},
+{"title":"prototype",
+  "options":["試作品",""],
+  "correctOptionIndex":"1"
+},
+{"title":"fiscal",
+  "options":["会計の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"spectator",
+  "options":["観客",""],
+  "correctOptionIndex":"1"
+},
+{"title":"inconvenience",
+  "options":["不自由",""],
+  "correctOptionIndex":"1"
+},
+{"title":"income",
+  "options":["収入",""],
+  "correctOptionIndex":"1"
+},
+{"title":"situation",
+  "options":["状況",""],
+  "correctOptionIndex":"1"
+},
+{"title":"moreover",
+  "options":["その上",""],
+  "correctOptionIndex":"1"
+},
+{"title":"fantastic",
+  "options":["すばらしい",""],
+  "correctOptionIndex":"1"
+},
+{"title":"detour",
+  "options":["迂回路",""],
+  "correctOptionIndex":"1"
+},
+{"title":"amateur",
+  "options":["アマチュア",""],
+  "correctOptionIndex":"1"
+},
+{"title":"genre",
+  "options":["ジャンル",""],
+  "correctOptionIndex":"1"
+},
+{"title":"thus",
+  "options":["したがって",""],
+  "correctOptionIndex":"1"
+},
+{"title":"tendtodo",
+  "options":["…する傾向がある",""],
+  "correctOptionIndex":"1"
+},
+{"title":"overflow",
+  "options":["いっぱいになる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"browse",
+  "options":["商品を見て回る",""],
+  "correctOptionIndex":"1"
+},
+{"title":"validate",
+  "options":["…だ正しいことを証明する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"examine",
+  "options":["調査する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"quote",
+  "options":["見積額",""],
+  "correctOptionIndex":"1"
+},
+{"title":"reward",
+  "options":["報酬",""],
+  "correctOptionIndex":"1"
+},
+{"title":"typical",
+  "options":["典型的な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"guidebook",
+  "options":["ガイドブック",""],
+  "correctOptionIndex":"1"
+},
+{"title":"mission",
+  "options":["任務",""],
+  "correctOptionIndex":"1"
+},
+{"title":"average",
+  "options":["平均の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"asset",
+  "options":["有用な人／資産",""],
+  "correctOptionIndex":"1"
+},
+{"title":"usage",
+  "options":["使い方",""],
+  "correctOptionIndex":"1"
+},
+{"title":"respectively",
+  "options":["それぞれに",""],
+  "correctOptionIndex":"1"
+},
+{"title":"instant",
+  "options":["即時の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"archive",
+  "options":["記録文書",""],
+  "correctOptionIndex":"1"
+},
+{"title":"vacancy",
+  "options":["空席",""],
+  "correctOptionIndex":"1"
+},
+{"title":"enthusiastic",
+  "options":["熱意のある",""],
+  "correctOptionIndex":"1"
+},
+{"title":"mere",
+  "options":["単なる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"seldom",
+  "options":["めったに…ない",""],
+  "correctOptionIndex":"1"
+},
+{"title":"workforce",
+  "options":["従業員",""],
+  "correctOptionIndex":"1"
+},
+{"title":"occupy",
+  "options":["占有する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"competence",
+  "options":["能力",""],
+  "correctOptionIndex":"1"
+},
+{"title":"opposite",
+  "options":["逆の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"utilize",
+  "options":["利用する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"intensive",
+  "options":["短期集中的な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"insight",
+  "options":["理解／見識",""],
+  "correctOptionIndex":"1"
+},
+{"title":"skip",
+  "options":["省く",""],
+  "correctOptionIndex":"1"
+},
+{"title":"explanation",
+  "options":["説明",""],
+  "correctOptionIndex":"1"
+},
+{"title":"devote",
+  "options":["ささげる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"discontinue",
+  "options":["中止する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"truly",
+  "options":["本当に",""],
+  "correctOptionIndex":"1"
+},
+{"title":"kickoff",
+  "options":["開始",""],
+  "correctOptionIndex":"1"
+},
+{"title":"entertainment",
+  "options":["娯楽",""],
+  "correctOptionIndex":"1"
+},
+{"title":"neutral",
+  "options":["中立の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"biography",
+  "options":["伝記",""],
+  "correctOptionIndex":"1"
+},
+{"title":"precise",
+  "options":["正確な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"factor",
+  "options":["要因",""],
+  "correctOptionIndex":"1"
+},
+{"title":"conform",
+  "options":["従う",""],
+  "correctOptionIndex":"1"
+},
+{"title":"eventually",
+  "options":["結局",""],
+  "correctOptionIndex":"1"
+},
+{"title":"reputation",
+  "options":["評判",""],
+  "correctOptionIndex":"1"
+},
+{"title":"curb",
+  "options":["縁石／抑制する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"innovative",
+  "options":["刷新的な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"malfunction",
+  "options":["不調",""],
+  "correctOptionIndex":"1"
+},
+{"title":"crucial",
+  "options":["重大な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"prerequisite",
+  "options":["必須条件",""],
+  "correctOptionIndex":"1"
+},
+{"title":"reluctant",
+  "options":["いやに思う",""],
+  "correctOptionIndex":"1"
+},
+{"title":"principle",
+  "options":["原理／原則",""],
+  "correctOptionIndex":"1"
+},
+{"title":"perceive",
+  "options":["理解する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"cooperation",
+  "options":["協力",""],
+  "correctOptionIndex":"1"
+},
+{"title":"controversial",
+  "options":["物議をかもす",""],
+  "correctOptionIndex":"1"
+},
+{"title":"reinforce",
+  "options":["強化する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"worldwide",
+  "options":["世界中の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"empty",
+  "options":["空の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"fundamental",
+  "options":["基本的な／必須の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"heritage",
+  "options":["文化的遺産",""],
+  "correctOptionIndex":"1"
+},
+{"title":"sensitive",
+  "options":["敏感な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"execute",
+  "options":["実行する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"gradually",
+  "options":["だんだんと",""],
+  "correctOptionIndex":"1"
+},
+{"title":"declare",
+  "options":["宣言する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"beside",
+  "options":["…のそばに",""],
+  "correctOptionIndex":"1"
+},
+{"title":"struggle",
+  "options":["…しようと努力する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"domestic",
+  "options":["国内の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"duration",
+  "options":["期間",""],
+  "correctOptionIndex":"1"
+},
+{"title":"complicated",
+  "options":["複雑な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"maintain",
+  "options":["維持する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"origin",
+  "options":["起源",""],
+  "correctOptionIndex":"1"
+},
+{"title":"infrastructure",
+  "options":["社会基盤",""],
+  "correctOptionIndex":"1"
+},
+{"title":"dramatic",
+  "options":["劇的な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"engagement",
+  "options":["約束／関与",""],
+  "correctOptionIndex":"1"
+},
+{"title":"calculate",
+  "options":["計算する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"installment",
+  "options":["(分割払いの)支払い",""],
+  "correctOptionIndex":"1"
+},
+{"title":"population",
+  "options":["人口",""],
+  "correctOptionIndex":"1"
+},
+{"title":"manuscript",
+  "options":["原稿",""],
+  "correctOptionIndex":"1"
+},
+{"title":"imagine",
+  "options":["想像する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"encounter",
+  "options":["直面する／経験する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"milestone",
+  "options":["段階",""],
+  "correctOptionIndex":"1"
+},
+{"title":"concept",
+  "options":["概念／コンセプト",""],
+  "correctOptionIndex":"1"
+},
+{"title":"reimburse",
+  "options":["返済する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"freelance",
+  "options":["フリーランス",""],
+  "correctOptionIndex":"1"
+},
+{"title":"useful",
+  "options":["役に立つ",""],
+  "correctOptionIndex":"1"
+},
+{"title":"excessive",
+  "options":["過度の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"absence",
+  "options":["欠席／欠如",""],
+  "correctOptionIndex":"1"
+},
+{"title":"reply",
+  "options":["返信／返事をする",""],
+  "correctOptionIndex":"1"
+},
+{"title":"shortage",
+  "options":["不足",""],
+  "correctOptionIndex":"1"
+},
+{"title":"scope",
+  "options":["範囲",""],
+  "correctOptionIndex":"1"
+},
+{"title":"landlord",
+  "options":["家主",""],
+  "correctOptionIndex":"1"
+},
+{"title":"background",
+  "options":["背景",""],
+  "correctOptionIndex":"1"
+},
+{"title":"bargain",
+  "options":["バーゲン品／交渉する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"invaluable",
+  "options":["貴重な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"remote",
+  "options":["遠い",""],
+  "correctOptionIndex":"1"
+},
+{"title":"cite",
+  "options":["(理由や例を)挙げる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"coincidence",
+  "options":["偶然の一致",""],
+  "correctOptionIndex":"1"
+},
+{"title":"rapid",
+  "options":["速い",""],
+  "correctOptionIndex":"1"
+},
+{"title":"feasible",
+  "options":["実行可能な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"streamline",
+  "options":["(仕事を)合理化する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"quota",
+  "options":["割当量／ノルマ",""],
+  "correctOptionIndex":"1"
+},
+{"title":"attribute",
+  "options":["…に原因があると考える",""],
+  "correctOptionIndex":"1"
+},
+{"title":"forthcoming",
+  "options":["今度の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"overwhelming",
+  "options":["圧倒的な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"adequate",
+  "options":["…するのに十分な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"mandatory",
+  "options":["義務的な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"redeem",
+  "options":["(現金に)換える",""],
+  "correctOptionIndex":"1"
+},
+{"title":"apprenticeship",
+  "options":["見習い期間",""],
+  "correctOptionIndex":"1"
+},
+{"title":"culinary",
+  "options":["食事の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"applause",
+  "options":["拍手／賞賛",""],
+  "correctOptionIndex":"1"
+},
+{"title":"discard",
+  "options":["捨てる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"overlook",
+  "options":["見落とす",""],
+  "correctOptionIndex":"1"
+},
+{"title":"proceeds",
+  "options":["売上高",""],
+  "correctOptionIndex":"1"
+},
+{"title":"aboard",
+  "options":["(船や飛行機に)乗って",""],
+  "correctOptionIndex":"1"
+},
+{"title":"adhere",
+  "options":["(忠実に)従う",""],
+  "correctOptionIndex":"1"
+},
+{"title":"commission",
+  "options":["手数料",""],
+  "correctOptionIndex":"1"
+},
+{"title":"specification",
+  "options":["仕様書",""],
+  "correctOptionIndex":"1"
+},
+{"title":"convince",
+  "options":["納得させる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"specify",
+  "options":["明細に述べる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"disclosure",
+  "options":["公開",""],
+  "correctOptionIndex":"1"
+},
+{"title":"projection",
+  "options":["予測／見通し",""],
+  "correctOptionIndex":"1"
+},
+{"title":"outlay",
+  "options":["出資金",""],
+  "correctOptionIndex":"1"
+},
+{"title":"prohibit",
+  "options":["禁止する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"expedite",
+  "options":["促進する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"mentor",
+  "options":["助言者",""],
+  "correctOptionIndex":"1"
+},
+{"title":"offset",
+  "options":["埋め合わせる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"remodel",
+  "options":["改造する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"nursery",
+  "options":["園芸店",""],
+  "correctOptionIndex":"1"
+},
+{"title":"resolve",
+  "options":["解決する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"dismantle",
+  "options":["解体する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"chronicle",
+  "options":["年代記",""],
+  "correctOptionIndex":"1"
+},
+{"title":"turnout",
+  "options":["出席者",""],
+  "correctOptionIndex":"1"
+},
+{"title":"bulk",
+  "options":["大部分",""],
+  "correctOptionIndex":"1"
+},
+{"title":"resume",
+  "options":["再開する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"inlay",
+  "options":["はめ込む",""],
+  "correctOptionIndex":"1"
+},
+{"title":"obstacle",
+  "options":["障害物",""],
+  "correctOptionIndex":"1"
+},
+{"title":"retrieve",
+  "options":["検索する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"compliance",
+  "options":["法令遵守",""],
+  "correctOptionIndex":"1"
+},
+{"title":"undertake",
+  "options":["引き受ける",""],
+  "correctOptionIndex":"1"
+},
+{"title":"endeavor",
+  "options":["試み",""],
+  "correctOptionIndex":"1"
+},
+{"title":"unload",
+  "options":["荷物をおろす",""],
+  "correctOptionIndex":"1"
+},
+{"title":"adopt",
+  "options":["採用する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"adapt",
+  "options":["適応させる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"abandon",
+  "options":["捨てる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"congestion",
+  "options":["混雑",""],
+  "correctOptionIndex":"1"
+},
+{"title":"prestigious",
+  "options":["一流の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"acclaim",
+  "options":["ほめたたえる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"deliberate",
+  "options":["故意の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"designate",
+  "options":["指名する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"attest",
+  "options":["証明する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"stroll",
+  "options":["散歩する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"amend",
+  "options":["修正する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"praise",
+  "options":["賞賛の言葉",""],
+  "correctOptionIndex":"1"
+},
+{"title":"nominate",
+  "options":["推薦する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"retain",
+  "options":["保持する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"slate",
+  "options":["予定する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"novice",
+  "options":["初心者",""],
+  "correctOptionIndex":"1"
+},
+{"title":"alternative",
+  "options":["代案",""],
+  "correctOptionIndex":"1"
+},
+{"title":"admire",
+  "options":["感心する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"gratitude",
+  "options":["感謝の気持ち",""],
+  "correctOptionIndex":"1"
+},
+{"title":"compile",
+  "options":["編集する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"duplicate",
+  "options":["複製する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"affiliate",
+  "options":["系列会社",""],
+  "correctOptionIndex":"1"
+},
+{"title":"tailor",
+  "options":["合わせて作る",""],
+  "correctOptionIndex":"1"
+},
+{"title":"aspire",
+  "options":["熱望する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"tutor",
+  "options":["教師",""],
+  "correctOptionIndex":"1"
+},
+{"title":"alike",
+  "options":["同様に",""],
+  "correctOptionIndex":"1"
+},
+{"title":"compensate",
+  "options":["補う",""],
+  "correctOptionIndex":"1"
+},
+{"title":"periodic",
+  "options":["定期的な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"disturb",
+  "options":["邪魔をする",""],
+  "correctOptionIndex":"1"
+},
+{"title":"candid",
+  "options":["率直な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"anonymous",
+  "options":["匿名の",""],
+  "correctOptionIndex":"1"
+},
+{"title":"assure",
+  "options":["保証する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"thoroughly",
+  "options":["徹底的に",""],
+  "correctOptionIndex":"1"
+},
+{"title":"imprint",
+  "options":["刻み込む",""],
+  "correctOptionIndex":"1"
+},
+{"title":"disrupt",
+  "options":["中断させる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"afterward",
+  "options":["その後で",""],
+  "correctOptionIndex":"1"
+},
+{"title":"originate",
+  "options":["生じる",""],
+  "correctOptionIndex":"1"
+},
+{"title":"versatile",
+  "options":["多目的な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"bypass",
+  "options":["迂回路",""],
+  "correctOptionIndex":"1"
+},
+{"title":"awning",
+  "options":["日よけ",""],
+  "correctOptionIndex":"1"
+},
+{"title":"ample",
+  "options":["十分な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"contrast",
+  "options":["差異／対比する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"fragile",
+  "options":["壊れやすい",""],
+  "correctOptionIndex":"1"
+},
+{"title":"coin",
+  "options":["(新語を)造り出す",""],
+  "correctOptionIndex":"1"
+},
+{"title":"promptly",
+  "options":["遅延なく",""],
+  "correctOptionIndex":"1"
+},
+{"title":"unconventional",
+  "options":["型にはまらない",""],
+  "correctOptionIndex":"1"
+},
+{"title":"conditional",
+  "options":["条件付きの",""],
+  "correctOptionIndex":"1"
+},
+{"title":"accountable",
+  "options":["責任がある",""],
+  "correctOptionIndex":"1"
+},
+{"title":"landmark",
+  "options":["歴史的な建物",""],
+  "correctOptionIndex":"1"
+},
+{"title":"steep",
+  "options":["急な／大幅な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"await",
+  "options":["待つ",""],
+  "correctOptionIndex":"1"
+},
+{"title":"intermittent",
+  "options":["断続的な",""],
+  "correctOptionIndex":"1"
+},
+{"title":"pursue",
+  "options":["追求する",""],
+  "correctOptionIndex":"1"
+},
+{"title":"exposition",
+  "options":["説明／展示会",""],
+  "correctOptionIndex":"1"
+},
+{"title":"cozy",
+  "options":["居心地の良い",""],
+  "correctOptionIndex":"1"
+},
+{"title":"overhaul",
+  "options":["改善",""],
+  "correctOptionIndex":"1"
+},
+{"title":"rundown",
+  "options":["手短な報告",""],
+  "correctOptionIndex":"1"
+},
+{"title":"roundup",
+  "options":["総括",""],
+  "correctOptionIndex":"1"
+}
+]

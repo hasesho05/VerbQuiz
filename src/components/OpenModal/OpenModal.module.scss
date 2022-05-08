@@ -1,0 +1,39 @@
+.title {
+  display: flex;
+  margin-bottom: 15px;
+
+  h1 {
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+  }
+
+  .icon {
+    cursor: pointer;
+    color: white;
+  }
+}
+
+.content {
+  color: white;
+
+  p {
+    font-size: clamp(0.8rem, 2vw, 1rem);
+  }
+}
+
+.modaltitle {
+  border-bottom: 1px solid #3a3a3c;
+  padding: 10px;
+}
+
+.modalexample {
+  border-bottom: 1px solid #3a3a3c;
+  padding: 10px;
+
+  p {
+    margin-bottom: 5px;
+  }
+}

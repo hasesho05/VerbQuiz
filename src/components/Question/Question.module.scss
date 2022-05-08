@@ -1,0 +1,111 @@
+.question {
+  .progressBar {
+    width: 0%;
+    height: 5px;
+  }
+
+  .progressBarActive {
+    background: black;
+    animation: progress 8s linear forwards;
+    animation-direction: reverse;
+  }
+
+  .questionCount {
+    margin: 20px 0px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+  }
+
+  .main {
+    padding: 20px 40px;
+
+    .title {
+      span {
+        font-size: 15px;
+        color: white;
+        font-weight: 600;
+      }
+
+      .container {
+        display: flex;
+        justify-content: space-between;
+        p {
+          margin-top: 5px;
+          color: white;
+          font-size: 30px;
+          font-weight: bold;
+        }
+        button {
+          font-size: 16px;
+          padding: 5px 2px;
+          border-radius: 9999px;
+          color: white;
+          border: 1px solid #bbb;
+        }
+      }
+    }
+
+    .options {
+      margin: 40px 0px 20px;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 20px;
+
+      .option {
+        width: calc(50% - 20px);
+        border: 1px solid #bbb;
+        padding: 10px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.4s;
+        color: white;
+        &:hover {
+          background-color: #3a3a3c;
+        }
+      }
+      .disable {
+        opacity: 0 !important;
+      }
+
+      @media (max-width: 614px) {
+        .option {
+          width: 100% !important;
+        }
+      }
+
+      .active {
+        background: #d0f0d0 !important;
+        border: 1px solid limegreen;
+        color: #111;
+      }
+    }
+  }
+
+  .control {
+    padding: 10px 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+}
+
+@keyframes progress {
+  0% {
+    width: 0%;
+    background: red;
+  }
+  30% {
+    width: 30%;
+    background: orangered;
+  }
+  60% {
+    width: 60%;
+    background: #ffd700;
+  }
+  100% {
+    width: 100%;
+    background: #7cfc00;
+  }
+}

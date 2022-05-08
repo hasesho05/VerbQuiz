@@ -1,0 +1,12 @@
+.login {
+  button {
+    font-size: clamp(0.7rem, 1.1vw, 0.9rem);
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+    &:hover {
+      background-color: #3a3a3c;
+    }
+  }
+}

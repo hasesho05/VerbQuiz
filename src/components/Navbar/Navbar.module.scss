@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  padding: 15px 16px;
+  height: auto;
+  border-bottom: 1px solid #3a3a3c;
+
+  h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+}
+
+.menuRight {
+  display: flex;
+  width: 70px;
+  justify-content: flex-end;
+}
+
+.menuLeft {
+  display: flex;
+  // margin: 0;
+  // padding: 0;
+  align-items: center;
+  width: 80px;
+  justify-content: flex-start;
+}

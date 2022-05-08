@@ -1,0 +1,88 @@
+.ranking {
+  flex: 0.45;
+}
+
+.ranking::-webkit-scrollbar {
+  display: none;
+}
+
+.title {
+  display: flex;
+  margin-bottom: 15px;
+
+  h1 {
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+  }
+
+  .icon {
+    cursor: pointer;
+    color: white;
+  }
+}
+
+.contentTabs {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 500px;
+  max-height: 500px;
+  background-color: #1a1a1a;
+  overflow: scroll;
+}
+
+.blocTabs {
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.tabs {
+  color: white;
+  font-weight: bold;
+  padding: 15px;
+  text-align: center;
+  width: 50%;
+  background: #1a1a1a;
+  cursor: pointer;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.274);
+  box-sizing: content-box;
+  position: relative;
+  outline: none;
+}
+.tabs:not(:last-child) {
+  border-right: 1px solid rgba(0, 0, 0, 0.274);
+}
+
+.activeTabs {
+  background: #565758;
+  border-bottom: 1px solid transparent;
+}
+
+.activeTabs::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 5px;
+}
+
+.contentTabs {
+  flex-grow: 1;
+}
+.content {
+  background: #1a1a1a;
+  padding: 20px;
+  height: 100%;
+  display: none;
+}
+
+.activeContent {
+  display: block;
+}
