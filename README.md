@@ -3,7 +3,6 @@
 タイトル：Doughnut  
 URL：https://www.doughnut-quiz.com/  
 
-
 <br>
 英単語のクイズアプリです。<br>
 英語学習が活発なTwitter界隈で使ってほしいと思い作成しました。<br>
@@ -12,12 +11,10 @@ URL：https://www.doughnut-quiz.com/
 
 <img width="831" alt="スクリーンショット 2022-05-11 13 00 34" src="https://user-images.githubusercontent.com/100462205/167766597-10102377-7fc4-4ef1-b6f7-39f467cdd6ef.png">
 
-<img width="479" alt="スクリーンショット 2022-05-11 13 01 09" src="https://user-images.githubusercontent.com/100462205/167767017-6de61401-d078-4e2d-882b-d60fd5ef443f.png">
 
 <h1>使用技術</h1>
 ・　Next.js<br>
-・　Firebase<br>
- →Authentication, Database, Storage<br>
+・　Firebase　Authentication, Database, Storage<br>
 ・　Material UI<br>
 
 <h1>機能一覧</h1>  
@@ -26,9 +23,8 @@ URL：https://www.doughnut-quiz.com/
 ・　ランキング登録機能(react-flip-move)<br>
 ・　SNSシェア(react-share)<br>
 ・　制限時間付き４択クイズ<br>
-　→結果表示(chart.js, react-chart.js2)<br>
+・　結果表示(chart.js, react-chart.js2)<br>
 ・　出題問題の辞書検索機能<br>
-・　その他レイアウト<br>
-　→Drawer, navbar, modal(materialUI)<br>
+・　その他レイアウト　　Drawer, navbar, modal(materialUI)<br>
 
 
